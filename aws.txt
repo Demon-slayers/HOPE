@@ -550,6 +550,7 @@ con.close();
 Right click on progarm > run as java program
 If u get classnotfound exception error
 menubar>project>properties>select build path>libraries>add external jar file (manohar has sent in mail)
+https://drive.google.com/drive/folders/1kJ-g58rrerDz1uQI1rns1NRnpPMY8CGr
 
 
 JSP program
